@@ -3,5 +3,6 @@ public class Objective1Lab1 {
     /*
       Your solution goes here
     */
+    System.out.println("Hello, Skill Distillery");
   }
 }
