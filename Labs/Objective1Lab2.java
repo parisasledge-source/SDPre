@@ -1,7 +1,7 @@
 public class Objective1Lab2 {
   public static void main(String[] args) {
     /*
-      Your solution goes here
+      Print out a grocery list
     */
     System.out.println("Grocery List");
     System.out.println("1. Milk");
