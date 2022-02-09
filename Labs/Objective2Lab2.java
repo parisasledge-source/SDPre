@@ -3,9 +3,8 @@ public class Objective2Lab2 {
     String name = "Parisa Sledge";
     int age = 47;
     String state = "Maryland";
-
     /*
-      Your solution goes here
+      Print out your name, age and the state where you were born
     */
     System.out.println("Name: "+name+" Age: "+age+" State: "+state);
   }
