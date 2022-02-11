@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 public class Objective9Lab3 {
   public static void main(String[] args) {
     Scanner scanner = new Scanner(System.in);
@@ -20,10 +22,12 @@ public class Objective9Lab3 {
         System.out.println("Goodbye");
         break;
         default:
+      }
+
+
+      scanner.close();
+
     }
-
-    scanner.close();
-
   }
 
   public static void printMenu() {
